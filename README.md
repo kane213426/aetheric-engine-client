@@ -1,8 +1,6 @@
-# Aetheric Engine TCP Client
+# Aetheric Engine TCP Client (Fully AI Generated)
 
-T# Aetheric Engine TCP Client
-
-This is a Python TCP client that connects to the mysterious Aetheric Engine, authenticates with a JWT, and captures both ASCII and binary messages in real-time. The messages are parsed, validated, and stored in a local SQLite database with full metadata.
+This is a Python TCP client that connects to the mysterious Aetheric Engine, authenticates with a JWT, and captures both ASCII and binary messages in real-time. The messages are parsed, validated, and stored in a local SQLite database with full metadata. The codes here are fully AI generated. 
 
 ---
 
