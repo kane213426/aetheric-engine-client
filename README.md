@@ -93,15 +93,6 @@ This is a Python TCP client that connects to the mysterious Aetheric Engine, aut
 
 ---
 
-## 🧪 Future Enhancements
-
-- Validation script to verify parsing correctness
-- Auto-export to `.csv` or `.json`
-- Real-time message rate graph
-- Modularization (DB/Parser/Logger)
-
----
-
 ## 🧠 Notes
 
 - Some binary messages may be very large (up to 200GB reported)
